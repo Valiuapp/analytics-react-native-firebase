@@ -1,0 +1,7 @@
+{
+  "name": "@segment/analytics-react-native-firebase",
+  "main": "index.js",
+  "version": "1.1.0",
+  "license": "MIT",
+  "description": "Firebase Integration for Segment's React-Native analytics library."
+}
